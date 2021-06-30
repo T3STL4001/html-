@@ -1,0 +1,18 @@
+body{
+	background-color: #fafa02;
+}
+.intro{
+	color:red;
+
+	border-width:5px;
+	border-color: red;
+	border-style:solid;
+	border-radius:15px;  
+}
+.join{
+	color:red 
+}
+.difficulties{
+	color: #205ef9
+
+}
